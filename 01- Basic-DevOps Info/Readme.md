@@ -8,4 +8,4 @@ It covers:
 •	CI/CD pipeline basics
 •	DevOps culture and mindset
 💡 Purpose: To understand how modern software is built, tested, and deployed efficiently using DevOps practices.
-![DevOps Banner](devops-banner.png)
+(devops-banner.png)
