@@ -1,0 +1,13 @@
+## Commands Used
+
+```bash
+nano install.sh
+```
+
+```bash
+chmod +x install.sh
+```
+
+```bash
+./install.sh
+```
