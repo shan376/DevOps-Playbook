@@ -1,0 +1,57 @@
+## Commands Used
+
+```bash
+nano logs.txt
+```
+
+```bash
+grep "error" logs.txt
+```
+
+```bash
+nano users.txt
+```
+
+```bash
+awk '{print $1}' users.txt
+```
+
+```bash
+echo "nginx server running" > app.txt
+```
+
+```bash
+sed 's/nginx/apache/g' app.txt
+```
+
+```bash
+echo "Shan:DevOps:25" > data.txt
+```
+
+```bash
+cut -d ":" -f1 data.txt
+```
+
+```bash
+find /home -name "logs.txt"
+```
+
+```bash
+df -h
+```
+
+```bash
+free -m
+```
+
+```bash
+top
+```
+
+```bash
+ps aux
+```
+
+```bash
+ps aux | grep nginx
+```
