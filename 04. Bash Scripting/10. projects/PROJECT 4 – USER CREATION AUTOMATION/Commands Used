@@ -1,0 +1,30 @@
+## Commands Used
+
+```bash
+nano usercreate.sh
+```
+
+```bash
+read -p "Enter username: " username
+```
+
+```bash
+sudo useradd $username
+```
+
+```bash
+sudo passwd $username
+```
+
+```bash
+chmod +x usercreate.sh
+```
+
+```bash
+./usercreate.sh
+```
+
+```bash
+cat /etc/passwd | grep shan
+```
+```
