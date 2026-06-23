@@ -1,0 +1,21 @@
+## Commands Used
+
+```bash
+ls /home/ubuntu
+```
+
+```bash id="1q8m2v"
+chmod +x /home/ubuntu/backup.sh
+```
+
+```bash id="9x2kdp"
+crontab -e
+```
+
+```bash id="k2v7ls"
+crontab -l
+```
+
+```bash id="p8m1wr"
+ls /home/ubuntu/backups
+```
