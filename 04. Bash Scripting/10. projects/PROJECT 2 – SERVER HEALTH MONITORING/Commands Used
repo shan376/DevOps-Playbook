@@ -1,0 +1,29 @@
+## Commands Used
+
+```bash
+nano healthcheck.sh
+```
+
+```bash
+uptime
+```
+
+```bash
+free -m
+```
+
+```bash
+df -h
+```
+
+```bash
+ps aux --sort=-%mem | head
+```
+
+```bash
+chmod +x healthcheck.sh
+```
+
+```bash
+./healthcheck.sh
+```
