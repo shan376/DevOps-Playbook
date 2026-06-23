@@ -1,0 +1,66 @@
+## Commands Used
+
+```bash
+nano backup.sh
+```
+
+```bash
+date +%Y-%m-%d
+```
+
+```bash
+mkdir -p /home/ubuntu/backups
+```
+
+```bash
+tar -czvf /home/ubuntu/backups/logs-2026-05-09.tar.gz /var/log
+```
+
+```bash
+echo "Backup completed"
+```
+
+```bash
+chmod +x backup.sh
+```
+
+```bash
+./backup.sh
+```
+
+```bash
+ls /home/ubuntu/backups
+```
+
+```bash
+cd Downloads
+```
+
+```bash
+dir
+```
+
+```bash
+scp -i 2026key.pem 2026key.pem ubuntu@SERVER1-IP:/home/ubuntu/
+```
+
+```bash
+ls /home/ubuntu
+```
+
+```bash
+chmod 400 /home/ubuntu/2026key.pem
+```
+
+```bash
+scp -i /home/ubuntu/2026key.pem /home/ubuntu/backups/logs-2026-05-09.tar.gz ubuntu@SERVER2-IP:/home/ubuntu/
+```
+
+```bash
+yes
+```
+
+```bash
+ls /home/ubuntu
+```
+```
