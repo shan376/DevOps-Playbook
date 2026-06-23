@@ -1,0 +1,25 @@
+## Commands Used
+
+```bash
+nano function.sh
+```
+
+```bash
+sudo apt update -y
+```
+
+```bash
+sudo apt install nginx -y
+```
+
+```bash
+sudo systemctl start nginx
+```
+
+```bash
+chmod +x function.sh
+```
+
+```bash
+./function.sh
+```
