@@ -1,0 +1,82 @@
+## Commands Used
+
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install git -y
+```
+
+```bash
+git --version
+```
+
+```bash
+sudo apt install docker.io -y
+```
+
+```bash
+sudo systemctl start docker
+```
+
+```bash
+sudo systemctl enable docker
+```
+
+```bash
+docker --version
+```
+
+```bash
+sudo systemctl status docker
+```
+
+```bash
+mkdir myapp
+```
+
+```bash
+cd myapp
+```
+
+```bash
+nano index.html
+```
+
+```bash
+nano Dockerfile
+```
+
+```bash
+docker build -t myapp .
+```
+
+```bash
+docker images
+```
+
+```bash
+docker run -d -p 80:80 --name mycontainer myapp
+```
+
+```bash
+docker ps
+```
+
+```bash
+curl localhost:8080
+```
+
+```bash
+nano deploy.sh
+```
+
+```bash
+chmod +x deploy.sh
+```
+
+```bash
+./deploy.sh
+```
+```
