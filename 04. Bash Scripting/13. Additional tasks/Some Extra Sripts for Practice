@@ -1,0 +1,46 @@
+FINAL PRACTICE TASKS
+TASK 1
+Script banao:
+•	nginx install
+•	status check
+•	port check
+________________________________________
+TASK 2
+Script banao:
+•	CPU
+•	RAM
+•	Disk usage
+•	report generate
+________________________________________
+TASK 3
+Script banao:
+•	docker build
+•	container restart
+•	logs check
+________________________________________
+TASK 4
+Script banao:
+•	old logs cleanup
+•	backup create
+•	cron setup
+________________________________________
+FINAL RESULT
+Agar tum:
+•	variables
+•	loops
+•	conditions
+•	functions
+•	monitoring scripts
+•	deployment scripts
+•	backup scripts
+properly practice kar lo,
+👉 to tum Junior DevOps Bash scripting level achieve kar loge.
+🔥 IMPORTANT:
+Sirf notes mat read karo.
+Har script:
+•	khud type karo
+•	EC2 pe run karo
+•	errors solve karo
+•	GitHub pe upload karo
+Yahi real learning hai.
+
