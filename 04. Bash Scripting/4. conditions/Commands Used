@@ -1,0 +1,13 @@
+## Commands Used
+
+```bash
+nano age.sh
+```
+
+```bash
+chmod +x age.sh
+```
+
+```bash
+./age.sh
+```
