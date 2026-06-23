@@ -1,0 +1,17 @@
+Usefull commands 
+
+
+nano test.sh
+Script likho:
+#!/bin/bash
+
+echo "Hello Bash Scripting"
+Save:
+CTRL + O
+ENTER
+CTRL + X
+Permission do:
+chmod +x test.sh
+Run:
+./test.sh
+
