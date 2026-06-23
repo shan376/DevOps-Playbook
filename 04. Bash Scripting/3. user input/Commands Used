@@ -1,0 +1,13 @@
+## Commands Used
+
+```bash
+nano input.sh
+```
+
+```bash
+chmod +x input.sh
+```
+
+```bash
+./input.sh
+```
