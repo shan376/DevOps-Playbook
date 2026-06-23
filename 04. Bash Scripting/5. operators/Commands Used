@@ -1,0 +1,13 @@
+## Commands Used
+
+```bash
+nano operators.sh
+```
+
+```bash
+chmod +x operators.sh
+```
+
+```bash
+./operators.sh
+```
