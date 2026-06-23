@@ -1,0 +1,25 @@
+## Commands Used
+
+```bash
+nano test.sh
+```
+
+```bash
+chmod +x test.sh
+```
+
+```bash
+./test.sh DevOps AWS
+```
+
+```bash
+nano allargs.sh
+```
+
+```bash
+chmod +x allargs.sh
+```
+
+```bash
+./allargs.sh DevOps AWS Docker Linux
+```
