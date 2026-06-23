@@ -1,0 +1,25 @@
+## Commands Used
+
+```bash
+nano forloop.sh
+```
+
+```bash
+chmod +x forloop.sh
+```
+
+```bash
+./forloop.sh
+```
+
+```bash
+nano whileloop.sh
+```
+
+```bash
+chmod +x whileloop.sh
+```
+
+```bash
+./whileloop.sh
+```
